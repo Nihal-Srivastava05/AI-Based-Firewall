@@ -1,3 +1,6 @@
+# Large Files
+Firewall_Rule_Classification.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
