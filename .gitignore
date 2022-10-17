@@ -1,5 +1,6 @@
 # Large Files
 Firewall_Rule_Classification.csv
+malicious_phish.csv
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
