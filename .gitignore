@@ -1,4 +1,5 @@
 # Large Files
+# Datasets
 Firewall_Rule_Classification.csv
 malicious_phish.csv
 feature_extraction1.csv
@@ -6,6 +7,9 @@ feature_extraction2.csv
 feature_extraction3.csv
 
 log_file.txt
+
+# Models
+url_clsf_word_embed/
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
