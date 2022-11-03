@@ -9,6 +9,7 @@ feature_extraction3.csv
 log_file.txt
 
 # Models
+url_clsf_combined/
 url_clsf_word_embed/
 
 .ipynb_checkpoints
