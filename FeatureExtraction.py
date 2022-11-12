@@ -189,8 +189,6 @@ class UrlFeaturizer(object):
     
         return data
 
-df = pd.read_csv('./Datasets/malicious_phish.csv')
-
 from multiprocessing import Process, Manager
 import time
 import os
@@ -208,20 +206,22 @@ def feature_extraction(dataset, FEATURE_DFS):
     print("DONE {}".format(os.getpid()))
 
 if __name__ == "__main__":
-	with Manager() as manager:
-		FEATURE_DFS = manager.list()
-		processes = []
-		idx = 15000
-		start_idx = 650001
-		for i in range(1, 15):
-			p = Process(target=feature_extraction, args=(df[start_idx+idx*(i-1):start_idx+idx*i], FEATURE_DFS))
-			p.start()
-			processes.append(p)
+    df = pd.read_csv('./Datasets/malicious_phish.csv')
 
-		for p in processes:
-			p.join()
-		print("DONE!")
+    with Manager() as manager:
+        FEATURE_DFS = manager.list()
+        processes = []
+        idx = 15000
+        start_idx = 650001
+        for i in range(1, 15):
+        	p = Process(target=feature_extraction, args=(df[start_idx+idx*(i-1):start_idx+idx*i], FEATURE_DFS))
+        	p.start()
+        	processes.append(p)
 
-		final_df = pd.concat(FEATURE_DFS)
-		final_df.reset_index()
-		final_df.to_csv('./Datasets/feature_extraction3.csv', index=False)
+        for p in processes:
+        	p.join()
+        print("DONE!")
+
+        final_df = pd.concat(FEATURE_DFS)
+        final_df.reset_index()
+        final_df.to_csv('./Datasets/feature_extraction3.csv', index=False)
