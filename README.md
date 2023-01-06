@@ -12,3 +12,8 @@ proxy --log-file log_file.txt
 - https://towardsdatascience.com/extracting-feature-vectors-from-url-strings-for-malicious-url-detection-cbafc24737a  
 - https://medium.com/nerd-for-tech/url-feature-engineering-and-classification-66c0512fb34d
 - https://github.com/lucasayres/url-feature-extractor
+
+### Contributors:
+- Nihal Srivastava (https://github.com/Nihal-Srivastava05)
+- Aditya Mac (https://github.com/GhoulMac)
+- Aditya Mishra (https://github.com/aditya01hpl)
