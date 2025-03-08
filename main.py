@@ -15,7 +15,7 @@ from tensorflow.keras.utils import pad_sequences
 
 warnings.simplefilter("ignore", UserWarning)
 
-feature_labels = ['phishing', 'benign', 'defacement', 'malware']
+feature_labels = ['benign','defacement', 'malware', 'phishing']
 
 class UrlFeaturizer(object):
     def __init__(self, url):
@@ -163,14 +163,12 @@ class UrlFeaturizer(object):
 
     def run(self):
         data = {}
-        data['url'] = self.url
         data['entropy'] = self.entropy()
         data['numDigits'] = self.numDigits()
         data['urlLength'] = self.urlLength()
         data['numParams'] = self.numParameters()
         data['hasHttp'] = self.hasHttp()
         data['hasHttps'] = self.hasHttps()
-        data['ext'] = self.domainExtension()
         data['num_%20'] = self.url.count("%20")
         data['num_@'] = self.url.count("@")
         data['has_ip'] = self.ip()
@@ -185,7 +183,6 @@ class UrlFeaturizer(object):
         data['has_admin_in_string'] = self.has_admin_in_string()
         data['has_server_in_string'] = self.has_server_in_string()
         data['has_login_in_string'] = self.has_login_in_string()
-        data['tld'] = self.get_tld()
         data['count_arate'] = self.count_arate()
         data['count_asterisk'] = self.count_asterisk()
         data['count_questionmark'] = self.count_questionmark()
@@ -198,7 +195,12 @@ class UrlFeaturizer(object):
         return data
 
 firewall_clf = pickle.load(open("./Models/random_forest_base.pkl", 'rb'))
-url_clf =  tf.keras.models.load_model("./Models/url_clsf_combined")
+url_clf =  tf.keras.models.load_model("./Models/url_clsf_word_embed")
+
+def get_padded_url(url, VOCAB_LENGTH = 464223, length_long_sentence = 373):
+    one_hot_url = one_hot(url, VOCAB_LENGTH)
+    padded_url = pad_sequences([one_hot_url], length_long_sentence, padding='post')
+    return padded_url
 
 print("########################## Model Loaded ##########################")
 
@@ -206,12 +208,13 @@ LAST_LINE = 0
 junk_contents = ["[I]", '-', 'bytes', 'None']
 while(True):
     time.sleep(1)
-    f = open("./Datasets/log_file.txt", "r")
+    f = open("./log_file.txt", "r")
     data = f.readlines()[LAST_LINE:]
     for d in data:
         content = d.split(' ')
         cleared_contents = [c for c in content if c not in junk_contents]
 
+        flag = 0
         if(len(cleared_contents) < 9):
             continue
         if(len(cleared_contents) == 9):
@@ -223,6 +226,7 @@ while(True):
             byte = int(cleared_contents[7])
             elps_time = float(cleared_contents[8][:-3])
             firewall_clf_data = [source_port, dest_port, byte, 1, elps_time]
+            flag = 1
         if(len(cleared_contents) == 11):
             if(":" not in cleared_contents[4] or ":" not in cleared_contents[6]):
                 continue
@@ -232,30 +236,29 @@ while(True):
             byte = int(cleared_contents[9])
             elps_time = float(cleared_contents[10][:-3])
             firewall_clf_data = [source_port, dest_port, byte, 1, elps_time]
+            flag = 1
 
-        instance1_data = np.array(firewall_clf_data)
-        prediction1 = firewall_clf.predict([instance1_data])[0]
-        print(prediction1)
-        
-        url_feature_extraction = UrlFeaturizer(url).run()
-        if('url' in url_feature_extraction):
-            url_feature_extraction.pop('url')
-        if('target' in url_feature_extraction):
-            url_feature_extraction.pop('target')
-        if('y' in url_feature_extraction):
-            url_feature_extraction.pop('y')
-        if('ext' in url_feature_extraction):
-            url_feature_extraction.pop('ext')
-        
-        url_feature_extraction = list(url_feature_extraction.values())
-        url_feature_extraction.remove('')
-        instance2_data = np.array(url_feature_extraction)
-        embeded_url = one_hot(url, 464223)
-        padded_url = pad_sequences([embeded_url], 373, padding='post')
-        prediction2 = url_clf.predict([padded_url.reshape(1, 373), instance2_data.reshape(1, 28)])
-        prediction2 = feature_labels[np.argmax(prediction2)]
+        if(flag == 1):
+            instance1_data = np.array(firewall_clf_data)
+            prediction1 = firewall_clf.predict([instance1_data])[0]
+            url_feature_extraction = UrlFeaturizer(url).run()        
+            url_feature_extraction = list(url_feature_extraction.values())
+            instance2_data = np.array(url_feature_extraction)
+            padded_url = get_padded_url(url)
+            # prediction2 = url_clf.predict(x=[padded_url.reshape(1, 373), instance2_data.reshape(1, 28)], verbose=0)
+            prediction2 = url_clf.predict(x=[padded_url.reshape(1, 373)], verbose=0)
+            prediction2 = feature_labels[np.argmax(prediction2)]
 
-        print(prediction1, prediction2)
+            flag = 0
+            if(prediction1 == 1):
+                print(url, "Malicious --> Block")
+                flag = 1
 
+            if (prediction2 != 'benign'):
+                print(url, "Malicious --> Block ", prediction2)
+                flag = 1
+
+            if(flag == 0):
+                print(url, "Not Harmful --> Allow ", prediction2)
 
     LAST_LINE += len(data)

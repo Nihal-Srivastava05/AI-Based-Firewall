@@ -1,51 +1,127 @@
-2022-10-04 12:08:09,411 - pid:2495 [I] plugins.load:85 - Loaded plugin proxy.http.proxy.HttpProxyPlugin
-2022-10-04 12:08:09,413 - pid:2495 [I] tcp.listen:80 - Listening on 127.0.0.1:8899
-2022-10-04 12:08:09,418 - pid:2495 [I] pool.setup:105 - Started 2 acceptors in threadless (local) mode
-2022-10-04 12:08:18,069 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44772 - CONNECT www.google.com:443 - 0 bytes - 91.99ms
-2022-10-04 12:08:19,768 - pid:2496 [I] server.access_log:384 - 127.0.0.1:44796 - CONNECT incoming.telemetry.mozilla.org:443 - 721 bytes - 392.99ms
-2022-10-04 12:08:24,895 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44794 - CONNECT incoming.telemetry.mozilla.org:443 - 721 bytes - 5487.82ms
-2022-10-04 12:08:28,513 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44820 - CONNECT fonts.gstatic.com:443 - 0 bytes - 244.97ms
-2022-10-04 12:08:28,627 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44776 - CONNECT www.google.com:443 - 5714 bytes - 10478.39ms
-2022-10-04 12:08:28,628 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44780 - POST ocsp.pki.goog:80/gts1c3 - 200 OK - 702 bytes - 10347.10ms
-2022-10-04 12:08:28,633 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44832 - CONNECT fonts.gstatic.com:443 - 0 bytes - 112.47ms
-2022-10-04 12:08:29,421 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44860 - CONNECT fonts.gstatic.com:443 - 0 bytes - 98.34ms
-2022-10-04 12:08:31,108 - pid:2496 [I] server.access_log:384 - 127.0.0.1:44826 - CONNECT www.google.com:443 - 0 bytes - 5040.16ms
-2022-10-04 12:08:31,260 - pid:2496 [I] server.access_log:384 - 127.0.0.1:44828 - CONNECT www.gstatic.com:443 - 0 bytes - 151.03ms
-2022-10-04 12:08:31,446 - pid:2496 [I] server.access_log:384 - 127.0.0.1:44798 - CONNECT incoming.telemetry.mozilla.org:443 - 1280 bytes - 12040.30ms
-2022-10-04 12:08:31,467 - pid:2496 [I] server.access_log:384 - 127.0.0.1:44834 - CONNECT www.gstatic.com:443 - 27929 bytes - 206.25ms
-2022-10-04 12:08:36,252 - pid:2496 [I] server.access_log:384 - 127.0.0.1:44822 - CONNECT accounts.google.com:443 - 8914 bytes - 10980.74ms
-2022-10-04 12:08:40,001 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44866 - CONNECT www.google.com:443 - 4289 bytes - 10562.13ms
-2022-10-04 12:08:40,131 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44870 - CONNECT contile.services.mozilla.com:443 - 212 bytes - 10501.15ms
-2022-10-04 12:08:40,131 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44868 - CONNECT www.google.co.in:443 - 4325 bytes - 10647.13ms
-2022-10-04 12:08:40,262 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44848 - CONNECT yt3.ggpht.com:443 - 13179 bytes - 11078.99ms
-2022-10-04 12:08:40,266 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44846 - CONNECT yt3.ggpht.com:443 - 12596 bytes - 11225.55ms
-2022-10-04 12:08:40,267 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44842 - CONNECT yt3.ggpht.com:443 - 13207 bytes - 11379.91ms
-2022-10-04 12:08:40,268 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44838 - CONNECT yt3.ggpht.com:443 - 11622 bytes - 11626.85ms
-2022-10-04 12:08:40,401 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44792 - CONNECT incoming.telemetry.mozilla.org:443 - 721 bytes - 21015.31ms
-2022-10-04 12:08:40,418 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44876 - CONNECT yt3.ggpht.com:443 - 11954 bytes - 10768.25ms
-2022-10-04 12:08:41,633 - pid:2496 [I] server.access_log:384 - 127.0.0.1:44830 - CONNECT googleads.g.doubleclick.net:443 - 6603 bytes - 10477.56ms
-2022-10-04 12:08:41,804 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44914 - CONNECT jnn-pa.googleapis.com:443 - 0 bytes - 112.63ms
-2022-10-04 12:08:42,366 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44916 - CONNECT static.doubleclick.net:443 - 0 bytes - 557.14ms
-2022-10-04 12:08:43,041 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44930 - CONNECT jnn-pa.googleapis.com:443 - 0 bytes - 81.01ms
-2022-10-04 12:08:43,053 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44928 - CONNECT www.google.com:443 - 4288 bytes - 222.08ms
-2022-10-04 12:08:43,268 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44920 - GET demo.testfire.net:80/ - 200 OK - 9619 bytes - 1231.53ms
-2022-10-04 12:08:43,436 - pid:2496 [I] server.access_log:384 - 127.0.0.1:44936 - GET demo.testfire.net:80/images/logo.gif - None None - 0 bytes - 169.12ms
-2022-10-04 12:08:43,755 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44940 - GET demo.testfire.net:80/images/pf_lock.gif - None None - 0 bytes - 457.19ms
-2022-10-04 12:08:43,790 - pid:2496 [I] server.access_log:384 - 127.0.0.1:44938 - GET demo.testfire.net:80/images/header_pic.jpg - None None - 0 bytes - 352.90ms
-2022-10-04 12:08:43,819 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44942 - GET demo.testfire.net:80/images/home1.jpg - None None - 0 bytes - 348.38ms
-2022-10-04 12:08:43,850 - pid:2496 [I] server.access_log:384 - 127.0.0.1:44944 - GET demo.testfire.net:80/images/home2.jpg - None None - 0 bytes - 86.75ms
-2022-10-04 12:08:43,851 - pid:2496 [I] server.access_log:384 - 127.0.0.1:44946 - GET demo.testfire.net:80/images/home3.jpg - None None - 0 bytes - 59.66ms
-2022-10-04 12:08:44,006 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44948 - GET demo.testfire.net:80/images/gradient.jpg - None None - 0 bytes - 249.51ms
-2022-10-04 12:08:44,007 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44950 - GET demo.testfire.net:80/favicon.ico - None None - 0 bytes - 186.68ms
-2022-10-04 12:08:50,968 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44788 - POST ocsp.pki.goog:80/gts1c3 - 200 OK - 701 bytes - 32066.28ms
-2022-10-04 12:08:50,972 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44808 - CONNECT i.ytimg.com:443 - 806641 bytes - 31334.43ms
-2022-10-04 12:08:50,976 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44810 - CONNECT fonts.googleapis.com:443 - 9535 bytes - 31217.79ms
-2022-10-04 12:08:50,978 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44840 - CONNECT yt3.ggpht.com:443 - 46568 bytes - 22306.43ms
-2022-10-04 12:08:50,981 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44852 - CONNECT www.gstatic.com:443 - 14832 bytes - 21697.87ms
-2022-10-04 12:08:50,985 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44882 - POST ocsp.pki.goog:80/gts1c3 - 200 OK - 702 bytes - 16247.31ms
-2022-10-04 12:08:50,994 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44884 - POST ocsp.pki.goog:80/gts1c3 - 200 OK - 702 bytes - 11100.15ms
-2022-10-04 12:08:50,997 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44886 - POST ocsp.pki.goog:80/gts1c3 - 200 OK - 702 bytes - 10993.89ms
-2022-10-04 12:08:51,004 - pid:2497 [I] server.access_log:384 - 127.0.0.1:44898 - CONNECT youtube.com:443 - 8144 bytes - 10871.13ms
-2022-10-04 12:08:51,190 - pid:2496 [I] server.access_log:384 - 127.0.0.1:44816 - POST ocsp.pki.goog:80/gts1c3 - 200 OK - 701 bytes - 26157.49ms
-2022-10-04 12:08:51,427 - pid:2495 [I] proxy._handle_exit_signal:325 - Received signal 2
-2022-10-04 12:08:51,427 - pid:2495 [I] pool.shutdown:125 - Shutting down 2 acceptors
+2022-11-15 14:17:22,590 - pid:18900 [I] plugins.load:85 - Loaded plugin proxy.http.proxy.HttpProxyPlugin
+2022-11-15 14:17:22,591 - pid:18900 [I] tcp.listen:80 - Listening on 127.0.0.1:8899
+2022-11-15 14:17:22,666 - pid:18900 [I] pool.setup:105 - Started 16 acceptors in threaded mode
+2022-11-15 14:17:36,354 - pid:32300 [I] server.access_log:384 - 127.0.0.1:50018 - CONNECT www.youtube.com:443 - 1614 bytes - 10102.54ms
+2022-11-15 14:17:43,777 - pid:16284 [I] server.access_log:384 - 127.0.0.1:50023 - CONNECT history.google.com:443 - 2091 bytes - 10165.90ms
+2022-11-15 14:17:43,887 - pid:11912 [I] server.access_log:384 - 127.0.0.1:50027 - CONNECT beacons.gcp.gvt2.com:443 - 2733 bytes - 10126.03ms
+2022-11-15 14:17:43,887 - pid:26628 [I] server.access_log:384 - 127.0.0.1:50028 - CONNECT google.com:443 - 8896 bytes - 10126.03ms
+2022-11-15 14:17:45,632 - pid:16284 [I] server.access_log:384 - 127.0.0.1:50039 - CONNECT www.gstatic.com:443 - 1334 bytes - 10075.37ms
+2022-11-15 14:17:45,648 - pid:32300 [I] server.access_log:384 - 127.0.0.1:50038 - CONNECT fonts.gstatic.com:443 - 1340 bytes - 10091.37ms
+2022-11-15 14:17:46,737 - pid:26628 [I] server.access_log:384 - 127.0.0.1:50051 - CONNECT adservice.google.com:443 - 1859 bytes - 10105.86ms
+2022-11-15 14:17:49,158 - pid:16284 [I] server.access_log:384 - 127.0.0.1:50035 - CONNECT www.google.com:443 - 123444 bytes - 13602.94ms
+2022-11-15 14:17:49,395 - pid:20208 [I] server.access_log:384 - 127.0.0.1:50055 - CONNECT www.googleadservices.com:443 - 2068 bytes - 10261.12ms
+2022-11-15 14:17:50,594 - pid:25920 [I] server.access_log:384 - 127.0.0.1:50059 - CONNECT ogs.google.com:443 - 18320 bytes - 10182.30ms
+2022-11-15 14:17:50,655 - pid:28808 [I] server.access_log:384 - 127.0.0.1:50063 - CONNECT ssl.gstatic.com:443 - 1334 bytes - 10081.10ms
+2022-11-15 14:17:50,749 - pid:26628 [I] server.access_log:384 - 127.0.0.1:50047 - CONNECT play.google.com:443 - 3423 bytes - 14292.29ms
+2022-11-15 14:18:28,484 - pid:32300 [I] server.access_log:384 - 127.0.0.1:50080 - CONNECT ajax.googleapis.com:443 - 81448 bytes - 10407.57ms
+2022-11-15 14:18:29,434 - pid:16284 [I] server.access_log:384 - 127.0.0.1:50084 - CONNECT www.youtube.com:443 - 2312 bytes - 10509.96ms
+2022-11-15 14:18:30,238 - pid:32300 [I] server.access_log:384 - 127.0.0.1:50072 - CONNECT canadagazette.gc.ca:443 - 239774 bytes - 14283.63ms
+2022-11-15 14:18:30,508 - pid:19300 [I] server.access_log:384 - 127.0.0.1:50088 - CONNECT canadagazette.gc.ca:443 - 579 bytes - 10892.45ms
+2022-11-15 14:18:30,508 - pid:30068 [I] server.access_log:384 - 127.0.0.1:50091 - CONNECT canadagazette.gc.ca:443 - 563 bytes - 10890.44ms
+2022-11-15 14:18:38,129 - pid:19620 [I] server.access_log:384 - 127.0.0.1:50067 - CONNECT www.google.com:443 - 4159 bytes - 31266.77ms
+2022-11-15 14:18:38,659 - pid:19620 [I] server.access_log:384 - 127.0.0.1:50071 - CONNECT canadagazette.gc.ca:443 - 185650 bytes - 22703.86ms
+2022-11-15 14:18:56,816 - pid:32500 [I] server.access_log:384 - 127.0.0.1:50111 - CONNECT e2cs11.gcp.gvt2.com:443 - 5151 bytes - 5491.23ms
+2022-11-15 14:19:01,338 - pid:19300 [I] server.access_log:384 - 127.0.0.1:50103 - CONNECT google.com:443 - 2444 bytes - 10107.24ms
+2022-11-15 14:19:01,370 - pid:32500 [I] server.access_log:384 - 127.0.0.1:50104 - CONNECT beacons.gcp.gvt2.com:443 - 2445 bytes - 10138.07ms
+2022-11-15 14:19:01,448 - pid:28436 [I] server.access_log:384 - 127.0.0.1:50099 - CONNECT www.google.com:443 - 48009 bytes - 14017.74ms
+2022-11-15 14:19:01,712 - pid:15628 [W] server.read_from_descriptors:247 - Connection reset by upstream: peregrine.igg.biz:443
+2022-11-15 14:19:01,713 - pid:15628 [I] server.access_log:384 - 127.0.0.1:50116 - CONNECT peregrine.igg.biz:443 - 0 bytes - 10112.65ms
+2022-11-15 14:19:01,714 - pid:26628 [I] server.access_log:384 - 127.0.0.1:50115 - CONNECT peregrine.igg.biz:443 - 0 bytes - 10114.70ms
+2022-11-15 14:19:02,375 - pid:6260 [I] server.access_log:384 - 127.0.0.1:50139 - CONNECT peregrine.igg.biz:443 - 3242 bytes - 652.21ms
+2022-11-15 14:19:02,408 - pid:32500 [I] server.access_log:384 - 127.0.0.1:50138 - CONNECT peregrine.igg.biz:443 - 3242 bytes - 687.12ms
+2022-11-15 14:19:04,616 - pid:6260 [I] server.access_log:384 - 127.0.0.1:50123 - GET peregrine.igg.biz:80/ - None None - 0 bytes - 10001.54ms
+2022-11-15 14:19:11,405 - pid:6260 [I] server.access_log:384 - 127.0.0.1:50130 - CONNECT www.youtube.com:443 - 2312 bytes - 10149.69ms
+2022-11-15 14:19:11,531 - pid:6260 [I] server.access_log:384 - 127.0.0.1:50134 - CONNECT beacons.gcp.gvt2.com:443 - 2445 bytes - 10150.11ms
+2022-11-15 14:19:14,622 - pid:28808 [I] server.access_log:384 - 127.0.0.1:50124 - GET peregrine.igg.biz:80/ - None None - 0 bytes - 10004.76ms
+2022-11-15 14:19:14,787 - pid:20208 [I] server.access_log:384 - 127.0.0.1:50147 - GET peregrine.igg.biz:80/ - 403 Forbidden - 5704 bytes - 162.69ms
+2022-11-15 14:19:14,920 - pid:3488 [I] server.access_log:384 - 127.0.0.1:50151 - CONNECT globalurl.fortinet.net:8010 - 2079 bytes - 102.01ms
+2022-11-15 14:19:15,106 - pid:3488 [I] server.access_log:384 - 127.0.0.1:50155 - GET peregrine.igg.biz:80/favicon.ico - 403 Forbidden - 5728 bytes - 168.87ms
+2022-11-15 14:19:28,234 - pid:25920 [I] server.access_log:384 - 127.0.0.1:50159 - CONNECT suggestqueries-clients6.youtube.com:443 - 8154 bytes - 10137.35ms
+2022-11-15 14:19:46,406 - pid:30068 [I] server.access_log:384 - 127.0.0.1:50163 - CONNECT www.youtube.com:443 - 2313 bytes - 10255.80ms
+2022-11-15 14:19:46,558 - pid:18900 [I] proxy._handle_exit_signal:325 - Received signal 2
+2022-11-15 14:19:46,558 - pid:18900 [I] pool.shutdown:125 - Shutting down 16 acceptors
+2022-11-15 14:19:47,375 - pid:18900 [I] proxy._handle_exit_signal:325 - Received signal 2
+2022-11-15 14:21:44,810 - pid:16200 [I] plugins.load:85 - Loaded plugin proxy.http.proxy.HttpProxyPlugin
+2022-11-15 14:21:44,811 - pid:16200 [I] tcp.listen:80 - Listening on 127.0.0.1:8899
+2022-11-15 14:21:44,887 - pid:16200 [I] pool.setup:105 - Started 16 acceptors in threaded mode
+2022-11-15 14:21:45,405 - pid:18040 [I] server.access_log:384 - 127.0.0.1:50202 - CONNECT beacons2.gvt2.com:443 - 4491 bytes - 87.01ms
+2022-11-15 14:21:55,382 - pid:15164 [I] server.access_log:384 - 127.0.0.1:50201 - CONNECT beacons.gcp.gvt2.com:443 - 1349 bytes - 10065.04ms
+2022-11-15 14:21:55,413 - pid:14384 [I] server.access_log:384 - 127.0.0.1:50203 - CONNECT beacons.gcp.gvt2.com:443 - 2445 bytes - 10117.04ms
+2022-11-15 14:21:55,459 - pid:14384 [I] server.access_log:384 - 127.0.0.1:50204 - CONNECT beacons2.gvt2.com:443 - 6549 bytes - 10162.66ms
+2022-11-15 14:22:00,081 - pid:15164 [I] server.access_log:384 - 127.0.0.1:50252 - CONNECT assets.squarespace.com:443 - 4451 bytes - 133.94ms
+2022-11-15 14:22:00,081 - pid:17716 [I] server.access_log:384 - 127.0.0.1:50238 - CONNECT assets.squarespace.com:443 - 0 bytes - 137.94ms
+2022-11-15 14:22:00,082 - pid:12284 [I] server.access_log:384 - 127.0.0.1:50243 - CONNECT assets.squarespace.com:443 - 0 bytes - 135.94ms
+2022-11-15 14:22:00,082 - pid:17716 [I] server.access_log:384 - 127.0.0.1:50246 - CONNECT assets.squarespace.com:443 - 0 bytes - 135.95ms
+2022-11-15 14:22:00,082 - pid:17716 [I] server.access_log:384 - 127.0.0.1:50250 - CONNECT assets.squarespace.com:443 - 0 bytes - 134.94ms
+2022-11-15 14:22:07,199 - pid:12284 [I] server.access_log:384 - 127.0.0.1:50217 - CONNECT www.google.com:443 - 49195 bytes - 10409.82ms
+2022-11-15 14:22:07,866 - pid:30944 [I] server.access_log:384 - 127.0.0.1:50221 - GET www.westwoodchurch.co.uk:80/our-services/sunday-celebration/celebration-talks/233-17-06-2012-ruth-ruth-1-simon-lloyd - 301 Moved Permanently - 391 bytes - 10594.28ms
+2022-11-15 14:22:09,604 - pid:17716 [I] server.access_log:384 - 127.0.0.1:50232 - GET apps.identrust.com:80/roots/dstrootcax3.p7c - 304 Not Modified - 270 bytes - 10114.65ms
+2022-11-15 14:22:10,087 - pid:33368 [I] server.access_log:384 - 127.0.0.1:50237 - CONNECT fonts.googleapis.com:443 - 3063 bytes - 10143.97ms
+2022-11-15 14:22:10,529 - pid:3488 [I] server.access_log:384 - 127.0.0.1:50236 - CONNECT use.typekit.net:443 - 12171 bytes - 10585.97ms
+2022-11-15 14:22:11,320 - pid:20208 [I] server.access_log:384 - 127.0.0.1:50279 - CONNECT static1.squarespace.com:443 - 88214 bytes - 11136.08ms
+2022-11-15 14:22:11,841 - pid:17716 [I] server.access_log:384 - 127.0.0.1:50272 - CONNECT fonts.gstatic.com:443 - 33500 bytes - 11776.96ms
+2022-11-15 14:22:12,141 - pid:21732 [I] server.access_log:384 - 127.0.0.1:50287 - CONNECT connect.facebook.net:443 - 94610 bytes - 10279.04ms
+2022-11-15 14:22:12,583 - pid:12284 [I] server.access_log:384 - 127.0.0.1:50283 - CONNECT use.typekit.net:443 - 151909 bytes - 10786.33ms
+2022-11-15 14:22:12,990 - pid:21732 [I] server.access_log:384 - 127.0.0.1:50247 - CONNECT assets.squarespace.com:443 - 638865 bytes - 13042.32ms
+2022-11-15 14:22:13,447 - pid:17716 [I] server.access_log:384 - 127.0.0.1:50291 - CONNECT assets.squarespace.com:443 - 205745 bytes - 11529.61ms
+2022-11-15 14:22:13,963 - pid:17716 [I] server.access_log:384 - 127.0.0.1:50228 - CONNECT stjohnswestwood.co.uk:443 - 20961 bytes - 16101.73ms
+2022-11-15 14:22:14,545 - pid:24264 [I] server.access_log:384 - 127.0.0.1:50310 - CONNECT images.squarespace-cdn.com:443 - 194501 bytes - 12560.65ms
+2022-11-15 14:22:14,781 - pid:17716 [I] server.access_log:384 - 127.0.0.1:50315 - CONNECT p.typekit.net:443 - 5235 bytes - 12198.88ms
+2022-11-15 14:22:14,781 - pid:12284 [I] server.access_log:384 - 127.0.0.1:50294 - CONNECT images.squarespace-cdn.com:443 - 334919 bytes - 12862.13ms
+2022-11-15 14:22:15,537 - pid:24264 [I] server.access_log:384 - 127.0.0.1:50307 - CONNECT images.squarespace-cdn.com:443 - 618992 bytes - 13563.80ms
+2022-11-15 14:22:16,352 - pid:15164 [I] server.access_log:384 - 127.0.0.1:50260 - CONNECT images.squarespace-cdn.com:443 - 473619 bytes - 16403.98ms
+2022-11-15 14:22:17,598 - pid:16652 [I] server.access_log:384 - 127.0.0.1:50319 - CONNECT socialplugin.facebook.net:443 - 3619 bytes - 10310.47ms
+2022-11-15 14:22:17,788 - pid:12284 [I] server.access_log:384 - 127.0.0.1:50300 - CONNECT images.squarespace-cdn.com:443 - 428904 bytes - 15860.50ms
+2022-11-15 14:22:20,101 - pid:17716 [I] server.access_log:384 - 127.0.0.1:50299 - CONNECT images.squarespace-cdn.com:443 - 219093 bytes - 18176.37ms
+2022-11-15 14:22:28,195 - pid:16696 [I] server.access_log:384 - 127.0.0.1:50331 - CONNECT static.xx.fbcdn.net:443 - 955854 bytes - 12159.22ms
+2022-11-15 14:22:28,773 - pid:12284 [I] server.access_log:384 - 127.0.0.1:50343 - CONNECT static.xx.fbcdn.net:443 - 156314 bytes - 10507.45ms
+2022-11-15 14:22:28,835 - pid:16696 [I] server.access_log:384 - 127.0.0.1:50339 - CONNECT scontent.fmaa14-1.fna.fbcdn.net:443 - 5137 bytes - 10601.55ms
+2022-11-15 14:22:29,041 - pid:16696 [I] server.access_log:384 - 127.0.0.1:50323 - CONNECT www.facebook.com:443 - 7228 bytes - 21434.24ms
+2022-11-15 14:22:29,166 - pid:16696 [I] server.access_log:384 - 127.0.0.1:50327 - CONNECT www.facebook.com:443 - 74439 bytes - 13531.88ms
+2022-11-15 14:22:29,339 - pid:17716 [I] server.access_log:384 - 127.0.0.1:50335 - CONNECT www.youtube.com:443 - 2422 bytes - 13105.09ms
+2022-11-15 14:22:32,514 - pid:20208 [W] server.connect_upstream:607 - Unable to connect with upstream gojukarate.biz:443 due to [Errno 11001] getaddrinfo failed
+2022-11-15 14:22:32,514 - pid:23308 [W] server.connect_upstream:607 - Unable to connect with upstream gojukarate.biz:443 due to [Errno 11001] getaddrinfo failed
+2022-11-15 14:22:32,515 - pid:20208 [I] handler.handle_data:179 - HttpProtocolException: ProxyConnectionFailed gaierror(11001, 'getaddrinfo failed')
+2022-11-15 14:22:32,515 - pid:23308 [I] handler.handle_data:179 - HttpProtocolException: ProxyConnectionFailed gaierror(11001, 'getaddrinfo failed')
+2022-11-15 14:22:32,516 - pid:20208 [I] server.access_log:384 - 127.0.0.1:50371 - CONNECT gojukarate.biz:443 - 0 bytes - 160.99ms
+2022-11-15 14:22:32,516 - pid:23308 [I] server.access_log:384 - 127.0.0.1:50372 - CONNECT gojukarate.biz:443 - 0 bytes - 159.99ms
+2022-11-15 14:22:32,532 - pid:15164 [W] server.connect_upstream:607 - Unable to connect with upstream gojukarate.biz:80 due to [Errno 11001] getaddrinfo failed
+2022-11-15 14:22:32,532 - pid:15164 [I] handler.handle_data:179 - HttpProtocolException: ProxyConnectionFailed gaierror(11001, 'getaddrinfo failed')
+2022-11-15 14:22:32,533 - pid:15164 [I] server.access_log:384 - 127.0.0.1:50377 - GET gojukarate.biz:80/ - None None - 0 bytes - 1.00ms
+2022-11-15 14:22:32,609 - pid:30944 [W] server.connect_upstream:607 - Unable to connect with upstream gojukarate.biz:80 due to [Errno 11001] getaddrinfo failed
+2022-11-15 14:22:32,609 - pid:30944 [I] handler.handle_data:179 - HttpProtocolException: ProxyConnectionFailed gaierror(11001, 'getaddrinfo failed')
+2022-11-15 14:22:32,610 - pid:30944 [I] server.access_log:384 - 127.0.0.1:50378 - GET gojukarate.biz:80/favicon.ico - None None - 0 bytes - 1.00ms
+2022-11-15 14:22:33,806 - pid:12284 [I] server.access_log:384 - 127.0.0.1:50347 - CONNECT stjohnswestwood.co.uk:443 - 5516 bytes - 10821.04ms
+2022-11-15 14:22:37,976 - pid:15164 [I] server.access_log:384 - 127.0.0.1:50355 - CONNECT ogs.google.com:443 - 18180 bytes - 10429.80ms
+2022-11-15 14:22:38,024 - pid:30944 [I] server.access_log:384 - 127.0.0.1:50360 - CONNECT ssl.gstatic.com:443 - 1334 bytes - 10084.72ms
+2022-11-15 14:22:38,054 - pid:29428 [I] server.access_log:384 - 127.0.0.1:50359 - CONNECT www.gstatic.com:443 - 1334 bytes - 10113.73ms
+2022-11-15 14:22:38,224 - pid:15164 [I] server.access_log:384 - 127.0.0.1:50367 - CONNECT play.google.com:443 - 2233 bytes - 10182.74ms
+2022-11-15 14:22:42,219 - pid:3488 [I] server.access_log:384 - 127.0.0.1:50351 - CONNECT www.google.com:443 - 51916 bytes - 19212.75ms
+2022-11-15 14:22:47,284 - pid:16652 [I] server.access_log:384 - 127.0.0.1:50383 - CONNECT history.google.com:443 - 2158 bytes - 10253.76ms
+2022-11-15 14:22:48,170 - pid:3488 [W] server.read_from_descriptors:247 - Connection reset by upstream: waatp.nl:443
+2022-11-15 14:22:48,170 - pid:3488 [I] server.access_log:384 - 127.0.0.1:50392 - CONNECT waatp.nl:443 - 0 bytes - 290.01ms
+2022-11-15 14:22:48,170 - pid:16696 [W] server.read_from_descriptors:247 - Connection reset by upstream: waatp.nl:443
+2022-11-15 14:22:48,171 - pid:16696 [I] server.access_log:384 - 127.0.0.1:50391 - CONNECT waatp.nl:443 - 0 bytes - 291.01ms
+2022-11-15 14:22:48,341 - pid:16696 [W] server.read_from_descriptors:247 - Connection reset by upstream: waatp.nl:443
+2022-11-15 14:22:48,341 - pid:16696 [I] server.access_log:384 - 127.0.0.1:50399 - CONNECT waatp.nl:443 - 0 bytes - 165.15ms
+2022-11-15 14:22:48,347 - pid:23308 [W] server.read_from_descriptors:247 - Connection reset by upstream: waatp.nl:443
+2022-11-15 14:22:48,347 - pid:23308 [I] server.access_log:384 - 127.0.0.1:50400 - CONNECT waatp.nl:443 - 0 bytes - 170.19ms
+2022-11-15 14:22:48,522 - pid:23308 [W] server.read_from_descriptors:247 - Connection reset by upstream: waatp.nl:80
+2022-11-15 14:22:48,522 - pid:23308 [I] server.access_log:384 - 127.0.0.1:50407 - GET waatp.nl:80/people/dimitri-taes/ - None None - 0 bytes - 157.83ms
+2022-11-15 14:22:48,678 - pid:17716 [W] server.read_from_descriptors:247 - Connection reset by upstream: waatp.nl:80
+2022-11-15 14:22:48,678 - pid:17716 [I] server.access_log:384 - 127.0.0.1:50408 - GET waatp.nl:80/people/dimitri-taes/ - None None - 0 bytes - 155.71ms
+2022-11-15 14:22:48,832 - pid:17716 [W] server.read_from_descriptors:247 - Connection reset by upstream: waatp.nl:80
+2022-11-15 14:22:48,832 - pid:17716 [I] server.access_log:384 - 127.0.0.1:50415 - GET waatp.nl:80/people/dimitri-taes/ - None None - 0 bytes - 151.20ms
+2022-11-15 14:22:50,039 - pid:11884 [W] server.read_from_descriptors:247 - Connection reset by upstream: waatp.nl:80
+2022-11-15 14:22:50,040 - pid:11884 [I] server.access_log:384 - 127.0.0.1:50419 - GET waatp.nl:80/people/dimitri-taes/ - None None - 0 bytes - 167.54ms
+2022-11-15 14:22:50,190 - pid:17716 [W] server.read_from_descriptors:247 - Connection reset by upstream: waatp.nl:80
+2022-11-15 14:22:50,190 - pid:17716 [I] server.access_log:384 - 127.0.0.1:50420 - GET waatp.nl:80/people/dimitri-taes/ - None None - 0 bytes - 149.58ms
+2022-11-15 14:22:50,339 - pid:21732 [W] server.read_from_descriptors:247 - Connection reset by upstream: waatp.nl:80
+2022-11-15 14:22:50,340 - pid:21732 [I] server.access_log:384 - 127.0.0.1:50427 - GET waatp.nl:80/people/dimitri-taes/ - None None - 0 bytes - 145.29ms
+2022-11-15 14:22:57,790 - pid:12284 [I] server.access_log:384 - 127.0.0.1:50387 - CONNECT www.google.com:443 - 47372 bytes - 10391.26ms
+2022-11-15 14:23:11,143 - pid:23308 [I] server.access_log:384 - 127.0.0.1:50431 - CONNECT www.facebook.com:443 - 3299 bytes - 10293.38ms
+2022-11-15 14:23:11,267 - pid:29428 [I] server.access_log:384 - 127.0.0.1:50435 - CONNECT beacons.gcp.gvt2.com:443 - 2469 bytes - 10142.29ms
+2022-11-15 14:23:12,706 - pid:29428 [I] server.access_log:384 - 127.0.0.1:50439 - CONNECT www.youtube.com:443 - 2312 bytes - 10175.80ms
+2022-11-15 14:23:24,709 - pid:20208 [I] server.access_log:384 - 127.0.0.1:50455 - CONNECT www.youtube.com:443 - 2312 bytes - 4551.62ms
+2022-11-15 14:23:26,661 - pid:16200 [I] proxy._handle_exit_signal:325 - Received signal 2
+2022-11-15 14:23:26,661 - pid:16200 [I] pool.shutdown:125 - Shutting down 16 acceptors

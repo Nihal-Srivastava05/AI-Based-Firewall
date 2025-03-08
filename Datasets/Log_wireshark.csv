@@ -1,0 +1,256 @@
+No.,Time,Source,Destination,Protocol,Length,Info
+57,10.737953,DESKTOP-EB9QDOJ.local,4-c-0003.c-msedge.net,TCP,66,62927  >  80 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+307,15.810955,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62928  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+308,15.811716,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62929  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+309,15.813638,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62930  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+310,15.814338,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62931  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+311,15.81547,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62932  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+312,15.816234,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62933  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+363,15.852855,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62934  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+364,15.853597,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62935  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+496,16.023294,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62936  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+497,16.024222,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62937  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+599,16.304559,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62938  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+609,16.313263,DESKTOP-EB9QDOJ.local,mobile-gtalk.l.google.com,TCP,66,62939  >  5228 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+644,16.989125,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62940  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+645,16.989372,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62941  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+886,17.746589,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62942  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+887,17.746811,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62943  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+918,17.808287,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62944  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+919,17.808504,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62945  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+1012,18.276408,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62946  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+1013,18.276644,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62947  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+1316,18.82601,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62948  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+1317,18.826298,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62949  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+1979,20.710996,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62950  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+1980,20.71123,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62951  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2054,23.913776,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62952  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2055,23.914446,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62953  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2203,27.455497,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62954  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2204,27.4561,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62955  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2280,28.277823,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62956  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2281,28.278078,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62957  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2282,28.278423,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62958  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2283,28.278635,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62959  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2443,29.001885,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62960  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2444,29.002183,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62961  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2631,29.516411,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62962  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2632,29.517161,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62963  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2654,29.579204,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62964  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2655,29.579712,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62965  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2659,29.580552,DESKTOP-EB9QDOJ.local,scontent-maa2-2.xx.fbcdn.net,TCP,66,62966  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2660,29.581031,DESKTOP-EB9QDOJ.local,scontent-maa2-2.xx.fbcdn.net,TCP,66,62967  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2661,29.581463,DESKTOP-EB9QDOJ.local,scontent-maa2-2.xx.fbcdn.net,TCP,66,62968  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2662,29.581869,DESKTOP-EB9QDOJ.local,scontent-maa2-2.xx.fbcdn.net,TCP,66,62969  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+3493,30.753061,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62970  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+3494,30.753739,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62971  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+4473,32.313119,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62972  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+4474,32.313357,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62973  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5118,34.016291,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62974  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5119,34.016524,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62975  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5135,34.027896,DESKTOP-EB9QDOJ.local,scontent.fmaa14-1.fna.fbcdn.net,TCP,66,62976  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5140,34.033337,DESKTOP-EB9QDOJ.local,scontent.fmaa14-1.fna.fbcdn.net,TCP,66,62977  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5141,34.033647,DESKTOP-EB9QDOJ.local,scontent.fmaa14-1.fna.fbcdn.net,TCP,66,62978  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5142,34.034367,DESKTOP-EB9QDOJ.local,scontent.fmaa14-1.fna.fbcdn.net,TCP,66,62979  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5143,34.034831,DESKTOP-EB9QDOJ.local,scontent.fmaa14-1.fna.fbcdn.net,TCP,66,62980  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5144,34.035254,DESKTOP-EB9QDOJ.local,scontent.fmaa14-1.fna.fbcdn.net,TCP,66,62981  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5149,34.042231,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62982  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5150,34.042443,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62983  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5226,34.112794,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62984  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5227,34.113018,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62985  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5237,34.117522,DESKTOP-EB9QDOJ.local,scontent.fmla1-1.fna.fbcdn.net,TCP,66,62986  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5264,34.182116,DESKTOP-EB9QDOJ.local,scontent-maa2-2.xx.fbcdn.net,TCP,66,62987  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6170,35.564053,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62988  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6181,35.564985,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62989  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6184,35.573091,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62990  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6185,35.573757,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62991  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6186,35.574633,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62992  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6187,35.575266,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62993  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6188,35.576116,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62994  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6189,35.576732,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62995  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6309,35.697998,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62996  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6310,35.698289,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,62997  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6541,35.940344,DESKTOP-EB9QDOJ.local,scontent.fvtz1-2.fna.fbcdn.net,TCP,66,62998  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6547,35.968047,DESKTOP-EB9QDOJ.local,scontent-bom1-1.xx.fbcdn.net,TCP,66,62999  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6641,36.052281,DESKTOP-EB9QDOJ.local,msgr-latest.c10r.facebook.com,TCP,66,63000  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6973,36.592333,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63001  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+7049,36.69644,DESKTOP-EB9QDOJ.local,scontent.fisb18-1.fna.fbcdn.net,TCP,66,63002  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+7546,37.442386,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63003  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+7547,37.442632,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63004  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+7550,37.452496,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63005  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+7551,37.452729,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63006  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+8308,38.455907,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63007  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+8869,39.368167,DESKTOP-EB9QDOJ.local,star.c10r.facebook.com,TCP,66,63008  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+9326,40.301061,DESKTOP-EB9QDOJ.local,star.c10r.facebook.com,TCP,66,63009  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+9419,40.489753,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63010  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+9420,40.490717,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63011  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+9628,40.748696,DESKTOP-EB9QDOJ.local,webpermissionpredictions.googleapis.com,TCP,66,63012  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+10231,42.762115,DESKTOP-EB9QDOJ.local,star.c10r.facebook.com,TCP,66,63013  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+10991,49.217146,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63014  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+10992,49.217377,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63015  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+11083,51.749779,DESKTOP-EB9QDOJ.local,a-0001.a-msedge.net,TCP,66,63016  >  443 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM=1
+11153,52.169956,DESKTOP-EB9QDOJ.local,e7695.g.akamaiedge.net,TCP,66,63017  >  443 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM=1
+11735,53.2347,DESKTOP-EB9QDOJ.local,40.99.9.162,TCP,66,63018  >  443 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM=1
+12320,54.102526,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63019  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+12321,54.102782,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63020  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+12323,54.103639,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63021  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+12324,54.1039,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63022  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+12325,54.104182,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63023  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+12326,54.104371,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63024  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+12404,54.236652,DESKTOP-EB9QDOJ.local,40.99.9.162,TCP,66,[TCP Retransmission] [TCP Port numbers reused] 63018  >  443 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM=1
+12910,55.102464,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,[TCP Retransmission] [TCP Port numbers reused] 63019  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+12911,55.102514,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,[TCP Retransmission] [TCP Port numbers reused] 63020  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+12913,55.115144,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63025  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+12914,55.11534,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63026  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+12915,55.115505,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63027  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+12916,55.11568,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63028  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+12917,55.115839,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63029  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+12918,55.115997,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63030  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+12920,55.118453,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,[TCP Retransmission] [TCP Port numbers reused] 63021  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+12921,55.118528,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,[TCP Retransmission] [TCP Port numbers reused] 63022  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+12922,55.118547,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,[TCP Retransmission] [TCP Port numbers reused] 63023  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+12923,55.118561,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,[TCP Retransmission] [TCP Port numbers reused] 63024  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13030,55.209044,DESKTOP-EB9QDOJ.local,scontent.ftlv1-1.fna.fbcdn.net,TCP,66,63031  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13149,55.369047,DESKTOP-EB9QDOJ.local,scontent.fbho1-1.fna.fbcdn.net,TCP,66,63032  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13260,55.54427,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63033  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13261,55.54491,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63034  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13734,56.129493,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,[TCP Retransmission] [TCP Port numbers reused] 63025  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13735,56.1298,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63035  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13834,56.282324,DESKTOP-EB9QDOJ.local,msgr-latest.c10r.facebook.com,TCP,66,63036  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+14327,57.107125,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,[TCP Retransmission] [TCP Port numbers reused] 63019  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+14349,57.13791,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,[TCP Retransmission] [TCP Port numbers reused] 63035  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+14453,57.294709,DESKTOP-EB9QDOJ.local,msgr-latest.c10r.facebook.com,TCP,66,[TCP Retransmission] [TCP Port numbers reused] 63036  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+14987,58.137843,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,[TCP Retransmission] [TCP Port numbers reused] 63025  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+15007,58.15117,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63037  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+15065,58.241024,DESKTOP-EB9QDOJ.local,scontent.fmaa13-1.fna.fbcdn.net,TCP,66,63038  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+15426,59.052818,DESKTOP-EB9QDOJ.local,star.c10r.facebook.com,TCP,66,63039  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+15659,59.782765,DESKTOP-EB9QDOJ.local,star.c10r.facebook.com,TCP,66,63040  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+16024,61.67888,DESKTOP-EB9QDOJ.local,star.c10r.facebook.com,TCP,66,63041  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+17631,68.244892,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63042  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+17632,68.245571,DESKTOP-EB9QDOJ.local,dns.google,TCP,66,63043  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+18276,69.202346,DESKTOP-EB9QDOJ.local,facebook.com,TCP,66,63044  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13030,10.737953,DESKTOP-EB9QDOJ.local,http://www.keve-kiserdo.hu/portal/index.php?option=com_content&view=article&id=455:atletika-2012&catid=39:hirek&Itemid=191,Protocol,Length,Info
+13149,15.810955,DESKTOP-EB9QDOJ.local,http://torcache.net/torrent/0BBCA7584749D4E741747E32E6EB588AEA03E40F.torrent?title=[kickass.to]the.avengers.2012.720p.bluray.x264.yify,TCP,66,62927  >  80 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13260,15.811716,DESKTOP-EB9QDOJ.local,sportsillustrated.cnn.com/baseball/mlb/stats/alltime/rosters/oakland_athletics/2009/byPOSN_ABRV.html,TCP,66,62928  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13261,15.813638,DESKTOP-EB9QDOJ.local,myspace.com/thejeandormessondiscosuicide,TCP,66,62929  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13734,15.814338,DESKTOP-EB9QDOJ.local,job-applications.com/safeway-application/,TCP,66,62930  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13735,15.81547,DESKTOP-EB9QDOJ.local,bowiestate.edu/Athletics/,TCP,66,62931  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13834,15.816234,DESKTOP-EB9QDOJ.local,ulocal.wmur.com/_Staff-Sergeant-Jeff-Turcotte-US-Army/photo/15457814/63455.html?as=63455,TCP,66,62932  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+14327,15.852855,DESKTOP-EB9QDOJ.local,apartmentratings.com/rate/TX-Dallas-Grand-Estates-at-Kessler-Park-formerly-Jefferson-at-Kessler-Park.html,TCP,66,62933  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+14349,15.853597,DESKTOP-EB9QDOJ.local,spoke.com/info/pEro3UG/ChrisWebb,TCP,66,62934  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+14453,16.023294,DESKTOP-EB9QDOJ.local,imdb.com/title/tt1231460/,TCP,66,62935  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+14987,16.024222,DESKTOP-EB9QDOJ.local,news.yahoo.com/scott-tucker-earns-pole-position-sets-record-scca-210206387.html,TCP,66,62936  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+15007,16.304559,DESKTOP-EB9QDOJ.local,healthgrades.com/dentist/dr-eric-schall-xd257/patient-ratings,TCP,66,62937  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+15065,16.313263,DESKTOP-EB9QDOJ.local,youtube.com/watch?v=oEE-XKxmaoA,TCP,66,62938  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+15426,16.989125,DESKTOP-EB9QDOJ.local,answers.com/topic/pornography,TCP,66,62939  >  5228 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+15659,16.989372,DESKTOP-EB9QDOJ.local,dvd-copy.com/people/Marla-Shapiro/1717778/bio.htm,TCP,66,62940  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+16024,17.746589,DESKTOP-EB9QDOJ.local,theraybirelybigband.com/aboutus.aspx,TCP,66,62941  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+17631,17.746811,DESKTOP-EB9QDOJ.local,http://die-hauensteins.com/Skifahren2003/Zauchensee/album/index.html,TCP,66,62942  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+17632,17.808287,DESKTOP-EB9QDOJ.local,filecrop.com/ios-32.html,TCP,66,62943  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+18276,17.808504,DESKTOP-EB9QDOJ.local,http://3cf.ru/2015/07/21/syrevoi-indeks-bloomberg-ypal-do-13-letnego-minimyma/,TCP,66,62944  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13030,18.276408,DESKTOP-EB9QDOJ.local,en.wikipedia.org/wiki/Bob_Lemieux,TCP,66,62945  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13149,18.276644,DESKTOP-EB9QDOJ.local,http://yourdayyourbudget.com/index.php?option=com_content&view=article&id=50&Itemid=53,TCP,66,62946  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13260,18.82601,DESKTOP-EB9QDOJ.local,http://distractify.com/post/related/id/553c3bb64a0c4b846b5ca1bf/skip/20/limit/10/back/0,TCP,66,62947  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13261,18.826298,DESKTOP-EB9QDOJ.local,antiqbook.com/books/authors/historians_20th_century.phtml,TCP,66,62948  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13734,20.710996,DESKTOP-EB9QDOJ.local,jrlhs.simnhl.com/team.php?team=18,TCP,66,62949  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13735,20.71123,DESKTOP-EB9QDOJ.local,http://valedojauru.com.br/falta-de-leitos-durante-a-copa-do-mundo-preocupa-a-fifa/index.html,TCP,66,62950  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13834,23.913776,DESKTOP-EB9QDOJ.local,http://javadoplant.nl/es.html?start=36,TCP,66,62951  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+14327,23.914446,DESKTOP-EB9QDOJ.local,pass-nepal.org.np,TCP,66,62952  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+14349,27.455497,DESKTOP-EB9QDOJ.local,app-1530001945.000webhostapp.com,TCP,66,62953  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+14453,27.4561,DESKTOP-EB9QDOJ.local,youtube.com/watch?v=XYhbQ4Xvdvk,TCP,66,62954  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+14987,28.277823,DESKTOP-EB9QDOJ.local,http://tianqi.2345.com/plugin/widget/index.htm?s=3&z=2&t=0&v=0&d=3&bd=0&k=000000&f=&q=1&e=1&a=1&c=60037&w=180&h=30&align=left,TCP,66,62955  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+15007,28.278078,DESKTOP-EB9QDOJ.local,namesdatabase.com/schools/CA/QC/Vaudreuil-Dorion/Ecole%20Secondaire%20Vaudreuil,TCP,66,62956  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+15065,28.278423,DESKTOP-EB9QDOJ.local,http://sohacogroup.com.vn/index.php?option=com_virtuemart&Itemid=128&page=shop.browse&category_id=24,TCP,66,62957  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+15426,28.278635,DESKTOP-EB9QDOJ.local,biomedexperts.com/Profile.bme/783706/Hillard_M_Lazarus,TCP,66,62958  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+15659,29.001885,DESKTOP-EB9QDOJ.local,mmorpg.com/gamelist.cfm/game/333/Citadel-of-Sorcery.html,TCP,66,62959  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+16024,29.002183,DESKTOP-EB9QDOJ.local,baseball-reference.com/teams/MON/2003.shtml,TCP,66,62960  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+17631,29.516411,DESKTOP-EB9QDOJ.local,http://down9.zol.com.cn/zoldriver/Toshiba_7_ProL600_LANDriver_10036,TCP,66,62961  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+17632,29.517161,DESKTOP-EB9QDOJ.local,http://www.versatilityphoneshop.co.uk/index.php?_a=recover,TCP,66,62962  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+18276,29.579204,DESKTOP-EB9QDOJ.local,http://www.bedfordi-kan.co.uk/news-and-offers/news,TCP,66,62963  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13030,29.579712,DESKTOP-EB9QDOJ.local,guardian.co.uk/music/2011/apr/17/marc-andre-hamelin-review,TCP,66,62964  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13149,29.580552,DESKTOP-EB9QDOJ.local,docstoc.com/docs/71529966/vocab1,TCP,66,62965  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13260,29.581031,DESKTOP-EB9QDOJ.local,http://www.textilexpres.com/TE/index.php?option=com_content&view=article&id=1695:fuentecapala-entre-el-senorio-espanol-y-la-elegancia-britanica&catid=906:empresa&Itemid=65,TCP,66,62966  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13261,29.581463,DESKTOP-EB9QDOJ.local,repositories.lib.utexas.edu/handle/2152/8908,TCP,66,62967  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13734,29.581869,DESKTOP-EB9QDOJ.local,scottshawphotography.com/?p=525,TCP,66,62968  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13735,30.753061,DESKTOP-EB9QDOJ.local,ratetheroads.com/QC/A-10/,TCP,66,62969  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+13834,30.753739,DESKTOP-EB9QDOJ.local,thefreelibrary.com/Winchester+remembers+John+Wayne%3a+Duke's+singular+lever+action+rifle...-a0171440736,TCP,66,62970  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+14327,32.313119,DESKTOP-EB9QDOJ.local,newswire.uark.edu/article.aspx?id=16959,TCP,66,62971  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+14349,32.313357,DESKTOP-EB9QDOJ.local,wn.com/berlin_daily,TCP,66,62972  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+14453,34.016291,DESKTOP-EB9QDOJ.local,http://www.kospel.pl/pl/o-firmie.html?tmpl=component&print=1&page=,TCP,66,62973  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+14987,34.016524,DESKTOP-EB9QDOJ.local,gosit.org/Midwest.htm,TCP,66,62974  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+15007,34.027896,DESKTOP-EB9QDOJ.local,ebay.com/sch/Collectibles-/1/i.html?_nkw=hans+conried,TCP,66,62975  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+15065,34.033337,DESKTOP-EB9QDOJ.local,coreproject.cz,TCP,66,62976  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+15426,34.033647,DESKTOP-EB9QDOJ.local,http://prepechal.net/index.php?option=com_contact&view=contact&id=5:milan-pilar&catid=34:oseva-agri-chrudim-as&Itemid=53,TCP,66,62977  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+15659,34.034367,DESKTOP-EB9QDOJ.local,antiqueradios.com/forums/viewtopic.php?t=148579,TCP,66,62978  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+16024,34.034831,DESKTOP-EB9QDOJ.local,yelp.com/biz/wokai-org-oakland,TCP,66,62979  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+17631,34.035254,DESKTOP-EB9QDOJ.local,phonebookofliege.com/,TCP,66,62980  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+17632,34.042231,DESKTOP-EB9QDOJ.local,angelfire.com/vt2/mumford/naturalizations1.html,TCP,66,62981  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+18276,34.042443,DESKTOP-EB9QDOJ.local,akaboston.org/,TCP,66,62982  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2283,34.112794,DESKTOP-EB9QDOJ.local,http://www.musictomyearscampaign.org/the-facts.html,TCP,66,62983  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2443,34.113018,DESKTOP-EB9QDOJ.local,http://www.barric.co.uk/quality-assured.htm,TCP,66,62984  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2444,34.117522,DESKTOP-EB9QDOJ.local,facebook.com/pages/Mad-Science/112685432079472,TCP,66,62985  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2631,34.182116,DESKTOP-EB9QDOJ.local,general-search.net/download/trigal-sandro,TCP,66,62986  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2632,35.564053,DESKTOP-EB9QDOJ.local,nationmaster.com/country/ec-ecuador/spo-sports,TCP,66,62987  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2654,35.564985,DESKTOP-EB9QDOJ.local,http://23283333.com/tour/show.asp?id=26,TCP,66,62988  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2655,35.573091,DESKTOP-EB9QDOJ.local,africa.si.edu/exhibits/resources/mali/index.htm,TCP,66,62989  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2659,35.573757,DESKTOP-EB9QDOJ.local,http://www.mistermoney.com/images/coin_images/silver/fre.php,TCP,66,62990  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2660,35.574633,DESKTOP-EB9QDOJ.local,http://www.711100.com/app/member/SportOption.php?uid=guest&langx=gb,TCP,66,62991  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2661,35.575266,DESKTOP-EB9QDOJ.local,http://neues-atelierhaus-panzerhalle.de/kuenstler/silvia-klara-breitwieser/133-silvia-klara-breitwieser-ausstellungen.html,TCP,66,62992  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2662,35.576116,DESKTOP-EB9QDOJ.local,amazon.com/Bob-Brookmeyer-Friends/dp/B000CELO9U,TCP,66,62993  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+3493,35.576732,DESKTOP-EB9QDOJ.local,askactor.com/actress/Hans_Conried/,TCP,66,62994  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+3494,35.697998,DESKTOP-EB9QDOJ.local,walkoffwalk.com/2008/10/taco-time-for-ryan-and-jason.html,TCP,66,62995  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+4473,35.698289,DESKTOP-EB9QDOJ.local,republicanoffenders.com/Pedophiles.html,TCP,66,62996  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+4474,35.940344,DESKTOP-EB9QDOJ.local,mwafcu.org/,TCP,66,62997  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5118,35.968047,DESKTOP-EB9QDOJ.local,mispedia.org/DisneyToon_Studios.html,TCP,66,62998  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5119,36.052281,DESKTOP-EB9QDOJ.local,http://creche-hermonville.com/index.php?option=com_weblinks&view=category&id=16&Itemid=82&fontstyle=f-larger,TCP,66,62999  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5135,36.592333,DESKTOP-EB9QDOJ.local,en.wikipedia.org/wiki/St._Mary%27s_Episcopal_Church,TCP,66,63000  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5140,36.69644,DESKTOP-EB9QDOJ.local,edwardthesecond.blogspot.com/2010/07/edward-ii-prefers-speaking-french-to.html,TCP,66,63001  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5141,37.442386,DESKTOP-EB9QDOJ.local,kruseanalysis.com/,TCP,66,63002  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5142,37.442632,DESKTOP-EB9QDOJ.local,http://www.trenker-bestattungen.de/index.php?option=com_adsmanager&page=show_category&catid=3&order=0&expand=0&Itemid=21,TCP,66,63003  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5143,37.452496,DESKTOP-EB9QDOJ.local,http://florianrestaurant.com/index.php?option=com_mailto&tmpl=component&link=aHR0cDovL2Zsb3JpYW5yZXN0YXVyYW50LmNvbS9pbmRleC5waHA%2Fb3B0aW9uPWNvbV9jb250ZW50JnZpZXc9YXJ0aWNsZSZpZD03MSUzQWNoYXJpdHktcmFsbHkmSXRlbWlkPTEzNiZsYW5nPWVu&lang=en,TCP,66,63004  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5144,37.452729,DESKTOP-EB9QDOJ.local,funkypair.com/exoticdancershoes.aspx,TCP,66,63005  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5149,38.455907,DESKTOP-EB9QDOJ.local,kreativniutrinki.blogspot.com/2010/11/zmajcek-za-rojstni-dan.html,TCP,66,63006  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5150,39.368167,DESKTOP-EB9QDOJ.local,http://sparcochile.com/index.php?option=com_content&view=article&id=52&Itemid=69,TCP,66,63007  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5226,40.301061,DESKTOP-EB9QDOJ.local,local.yahoo.com/PA/Uniontown/Food+Dining/Restaurants/Restaurants,TCP,66,63008  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5227,40.489753,DESKTOP-EB9QDOJ.local,manta.com/c/mm00r50/pollard-s-jim-captain-boat-restoration,TCP,66,63009  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5237,40.490717,DESKTOP-EB9QDOJ.local,http://midas-medical.com/products/ultrasound/black-white-portable-system/vision-2266/index.html,TCP,66,63010  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+5264,40.748696,DESKTOP-EB9QDOJ.local,labs.adobe.com/downloads/flashplayer10.html,TCP,66,63011  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6170,42.762115,DESKTOP-EB9QDOJ.local,absoluteastronomy.com/topics/Masten_Gregory,TCP,66,63012  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6181,49.217146,DESKTOP-EB9QDOJ.local,hipsterrunoff.com/altreport/2011/03/donald-glover-still-trying-be-buzz-indie-rapper-performs-sxsw-2-try-2-generate-buzz.html,TCP,66,63013  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6184,49.217377,DESKTOP-EB9QDOJ.local,themoneyconverter.com/USD/VEF.aspx,TCP,66,63014  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6185,51.749779,DESKTOP-EB9QDOJ.local,vinylgoldmine.blogspot.com/2008/09/failsafe-bravados-fistful-of-failsafe.html,TCP,66,63015  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6186,52.169956,DESKTOP-EB9QDOJ.local,http://www.ok-styl.eu/index.html,TCP,66,63016  >  443 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6187,53.2347,DESKTOP-EB9QDOJ.local,http://www.salsven.com/index.php?option=com_content&view=article&id=48:management-mentoring-a-coaching&catid=34&Itemid=54,TCP,66,63017  >  443 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6188,54.102526,DESKTOP-EB9QDOJ.local,http://censor.net.ua/jokes/all/page/1/hero/0/category/0/interval/5/author/db9b810613baa314dafa53f09c204c69/sortby/date,TCP,66,63018  >  443 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6189,54.102782,DESKTOP-EB9QDOJ.local,unity3d.com/support/resources/tutorials/3d-platform-game,TCP,66,63019  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6309,54.103639,DESKTOP-EB9QDOJ.local,linkedin.com/pub/aaron-sigfrinius/10/619/a87,TCP,66,63020  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6310,54.1039,DESKTOP-EB9QDOJ.local,software.com/toon-boom-animation-ish-10674-1,TCP,66,63021  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6541,54.104182,DESKTOP-EB9QDOJ.local,turnonthejets.com/2011/09/50-predictions-for-new-york-jets-2011-season/,TCP,66,63022  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6547,54.104371,DESKTOP-EB9QDOJ.local,http://www.inwido.co.uk/tag/aluminium-clad.html,TCP,66,63023  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6641,54.236652,DESKTOP-EB9QDOJ.local,http://www.graz4u.at/en.feed?type=atom,TCP,66,63024  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+6973,55.102464,DESKTOP-EB9QDOJ.local,barnesandnoble.com/w/compleated-autobiography-of-benjamin-franklin-mark-skousen/1102506358,TCP,66,[TCP Retransmission] [TCP Port numbers reused] 63018  >  443 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM=1
+7049,55.102514,DESKTOP-EB9QDOJ.local,evri.com/organization/quebecair-0xeca83,TCP,66,[TCP Retransmission] [TCP Port numbers reused] 63019  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+7546,55.115144,DESKTOP-EB9QDOJ.local,swapadvd.com/Godzilla-Final-Wars-UMD-PSP/dvd/83323/,TCP,66,[TCP Retransmission] [TCP Port numbers reused] 63020  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+7547,55.11534,DESKTOP-EB9QDOJ.local,goinggraylookinggreat.com/,TCP,66,63025  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+7550,55.115505,DESKTOP-EB9QDOJ.local,http://www.thewrightway.me.uk/services/packages.feed?type=atom,TCP,66,63026  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+7551,55.11568,DESKTOP-EB9QDOJ.local,people.famouswhy.com/larry_riley/,TCP,66,63027  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+8308,55.115839,DESKTOP-EB9QDOJ.local,eric.ed.gov/ERICWebPortal/recordDetail?accno=ED396997,TCP,66,63028  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+8869,55.115997,DESKTOP-EB9QDOJ.local,cfagbata.com/,TCP,66,63029  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+9326,55.118453,DESKTOP-EB9QDOJ.local,http://farsgp.com/index.php?option=com_content&view=article&id=169:drimanie&catid=1:latest-news&Itemid=50,TCP,66,63030  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+9419,55.118528,DESKTOP-EB9QDOJ.local,http://www.acranes.com/index.php?option=com_sobi2&catid=172&Itemid=69,TCP,66,[TCP Retransmission] [TCP Port numbers reused] 63021  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+9420,55.118547,DESKTOP-EB9QDOJ.local,http://plarium.com/es/juegos-de-estrategia/pirates-tides-of-fortune/noticias/preparate-para-toda-una-nueva-experiencia-auditiva-en-los-siete-mares/,TCP,66,[TCP Retransmission] [TCP Port numbers reused] 63022  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+9628,55.118561,DESKTOP-EB9QDOJ.local,thehockeywriters.com/doug-harvey-the-second-best-nhl-defenseman-ever/,TCP,66,[TCP Retransmission] [TCP Port numbers reused] 63023  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2283,55.209044,DESKTOP-EB9QDOJ.local,americantowns.com/la/gramercy/photos,TCP,66,[TCP Retransmission] [TCP Port numbers reused] 63024  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2443,55.369047,DESKTOP-EB9QDOJ.local,albanyny.org/Government/Departments/AdministrativeServices/Employment.aspx,TCP,66,63031  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2444,55.54427,DESKTOP-EB9QDOJ.local,online.bank0famerican.corn.auth-user.login-token-valid.0000.0.000.0.00.0000.00.0-accent.login-acct.overview.jiyemeradesh.com,TCP,66,63032  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2631,55.54491,DESKTOP-EB9QDOJ.local,members5.boardhost.com/MusicRendezvous/,TCP,66,63033  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2632,56.129493,DESKTOP-EB9QDOJ.local,usidentify.com/l/gilbeau,TCP,66,63034  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2654,56.1298,DESKTOP-EB9QDOJ.local,ultimate-guitar.com/reviews/compact_discs/bayside/the_walking_wounded/index.html,TCP,66,[TCP Retransmission] [TCP Port numbers reused] 63025  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2655,56.282324,DESKTOP-EB9QDOJ.local,en.wikipedia.org/wiki/Abscess_(band),TCP,66,63035  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2659,57.107125,DESKTOP-EB9QDOJ.local,http://polskizwiazekpokera.org/index.php?option=com_apoll&view=apolls&Itemid=130,TCP,66,63036  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2660,57.13791,DESKTOP-EB9QDOJ.local,en.goldenmap.com/Kazunari_Ninomiya,TCP,66,[TCP Retransmission] [TCP Port numbers reused] 63019  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2661,57.294709,DESKTOP-EB9QDOJ.local,blogs.wsj.com/deals/2011/03/24/ranking-the-50-biggest-u-s-banks-from-bofa-to-commerce-bancshares/,TCP,66,[TCP Retransmission] [TCP Port numbers reused] 63035  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+2662,58.137843,DESKTOP-EB9QDOJ.local,http://www.ijsbaanapeldoorn.nl/fotos-videos.html?vsig4_0=3&vsig4_1=2,TCP,66,[TCP Retransmission] [TCP Port numbers reused] 63036  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+3493,58.15117,DESKTOP-EB9QDOJ.local,en.wikipedia.org/wiki/2011_Tulsa_Talons_season,TCP,66,[TCP Retransmission] [TCP Port numbers reused] 63025  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+3494,58.241024,DESKTOP-EB9QDOJ.local,http://appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify3.id-app7.co.uk/identify-customer=mDvToV2QzPsE4hX1ZJ6qhi97T8E5EcHyky3iesy7xqzCLZ4qBK3teitfaHZPwNLUuhqQq97b0j3DLrwvhqDSTa8X2x097X1xsgBP/,TCP,66,63037  >  53 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
+4473,59.052818,DESKTOP-EB9QDOJ.local,fanbase.com/Marquette-Golden-Eagles-Mens-Basketball-2010-11,TCP,66,63038  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 WS=256 SACK_PERM=1
